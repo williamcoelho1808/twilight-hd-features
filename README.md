@@ -23,8 +23,6 @@ When updating, replace the previous `.dusk` file. Remove older standalone copies
 ### Ghost Lantern
 
 - Receive the Ghost Lantern from Jovani after collecting 20 Poe Souls.
-- Preserves his original Fairy Tears reward and dialogue.
-- Includes an item acquisition sequence, a 3D model, an inventory icon, and the ability to equip and put away the lantern.
 - The lantern glows more strongly as you approach a nearby Poe.
 - An optional animated lantern indicator at the top of the screen signals nearby Poes.
 - Detection distances can be adjusted in the mod settings.
@@ -34,7 +32,6 @@ When updating, replace the previous `.dusk` file. Remove older standalone copies
 
 - Collect all **50 stamps** in their corresponding HD locations.
 - View your collection in a stamp album accessible from the Collection screen.
-- Collected stamps and album progress are saved.
 
 ### Horse Flute shortcut
 

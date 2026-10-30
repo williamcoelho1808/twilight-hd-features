@@ -82,6 +82,4 @@ Upstream HUD project: [Twilight HD HUD](https://github.com/OTPR26/twilight-hd-hu
 
 The upstream MIT copyright and license notices are retained with the adapted component.
 
-Development assisted by AI tools.
-
 This is an unofficial fan project and is not affiliated with or endorsed by Nintendo.
